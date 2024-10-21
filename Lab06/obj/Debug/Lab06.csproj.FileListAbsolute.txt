@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Lab06\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\Administrator\source\repos\Lab06\Lab06\bin\Debug\Lab06.exe
+C:\Users\Administrator\source\repos\Lab06\Lab06\bin\Debug\Lab06.pdb
+C:\Users\Administrator\source\repos\Lab06\Lab06\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Lab06\Lab06\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Lab06\Lab06\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Lab06\Lab06\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Lab06\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Lab06\Lab06\obj\Debug\Lab06.frm_QuanLySach.resources
+C:\Users\Administrator\source\repos\Lab06\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Lab06\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lab06\Lab06\obj\Debug\Lab06.csproj.Up2Date
+C:\Users\Administrator\source\repos\Lab06\Lab06\obj\Debug\Lab06.exe
+C:\Users\Administrator\source\repos\Lab06\Lab06\obj\Debug\Lab06.pdb

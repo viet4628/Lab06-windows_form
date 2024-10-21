@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|C:\\Users\\Administrator\\source\\repos\\Lab06\\lab06\\model\\quanlysachdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|solutionrelative:lab06\\model\\quanlysachdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|C:\\Users\\Administrator\\source\\repos\\Lab06\\lab06\\model\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|solutionrelative:lab06\\model\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|c:\\users\\administrator\\source\\repos\\lab06\\lab06\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|solutionrelative:lab06\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|c:\\users\\administrator\\source\\repos\\lab06\\lab06\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|solutionrelative:lab06\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|C:\\Users\\Administrator\\source\\repos\\Lab06\\lab06\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD245715-53CA-4A78-BD3B-2AD9BD926ACF}|Lab06\\Lab06.csproj|solutionrelative:lab06\\frm_quanlysach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\App.config",
+              "RelativeDocumentMoniker": "Lab06\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\App.config",
+              "RelativeToolTip": "Lab06\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-21T08:34:45.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoaiSach.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\Model\\LoaiSach.cs",
+              "RelativeDocumentMoniker": "Lab06\\Model\\LoaiSach.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\Model\\LoaiSach.cs",
+              "RelativeToolTip": "Lab06\\Model\\LoaiSach.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:43:29.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_QuanLySach.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\frm_QuanLySach.cs",
+              "RelativeDocumentMoniker": "Lab06\\frm_QuanLySach.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\frm_QuanLySach.cs",
+              "RelativeToolTip": "Lab06\\frm_QuanLySach.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:18:25.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLySachDB.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\Model\\QuanLySachDB.cs",
+              "RelativeDocumentMoniker": "Lab06\\Model\\QuanLySachDB.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\Model\\QuanLySachDB.cs",
+              "RelativeToolTip": "Lab06\\Model\\QuanLySachDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:17:30.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_QuanLySach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\frm_QuanLySach.cs",
+              "RelativeDocumentMoniker": "Lab06\\frm_QuanLySach.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Lab06\\Lab06\\frm_QuanLySach.cs [Design]",
+              "RelativeToolTip": "Lab06\\frm_QuanLySach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T06:08:22.501Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
